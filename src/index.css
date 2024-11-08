@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "SF Pro Text";
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.copy-btn:hover {
+  box-shadow: 7px 5px 56px -14px #2563eb;
+}
+
+.copy-btn:active {
+  transform: scale(0.95);
+  box-shadow: 7px 5px 56px -10px #2563eb;
+}
+
+.hero-text {
+  color: transparent;
+  background-image: url("https://i.pinimg.com/474x/da/a7/29/daa729e01f653e1d3fbe72446f054940.jpg");
+  background-size: cover;
+  background-position: center;
+  -webkit-background-clip: text;
+}
