@@ -99,9 +99,6 @@ The main functional components are structured as follows:
 
 ```
 
-## Screenshot
-
-![Screenshot](assets/code-screenshot.png)
 
 ## License
 
