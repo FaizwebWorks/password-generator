@@ -104,10 +104,6 @@ The main functional components are structured as follows:
 
 This project is licensed under the MIT License.
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss proposed changes.
-
 ## Acknowledgments
 
 Special thanks to the React community and the creators of Tailwind CSS for their helpful resources and tools.
